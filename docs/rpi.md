@@ -13,7 +13,7 @@ This guide is tested on RPI 1,2 & 3.
 ## Install openSourceFrameworks
 [Build and compile oF](http://forum.openframeworks.cc/t/raspberry-pi-2-setup-guide/18690).
 
-## Installing dependencis for Footfall 
+## Installing dependencies for Footfall 
 You will need a few extra packages to build the RPi application.
 
 * Copy the `getrepos.sh` [file's data](https://github.com/WatershedArts/Footfall/blob/master/getrepos.sh) and place it inside the addons folder of your openFrameworks folder. 
